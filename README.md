@@ -1,4 +1,4 @@
-# Crossfit-WOD-API
+# Crossfit-WOTD-API
 
               
 <html>
